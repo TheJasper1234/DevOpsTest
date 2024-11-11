@@ -1,1 +1,1 @@
-print("im vadim!!!")
+print("im fcked!!!")
